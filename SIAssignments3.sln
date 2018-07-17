@@ -5,6 +5,10 @@ VisualStudioVersion = 15.0.27703.2035
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RegularExpression", "RegularExpression\RegularExpression.csproj", "{AB5F9BCE-5A72-4EE6-A973-0F1BBC7C730C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RegularExpressionTests", "RegularExpressionTests\RegularExpressionTests.csproj", "{7BA7D920-A2BA-4909-AA44-63A4D3720A1C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "textFileToUTF7", "textFileToUTF7\textFileToUTF7.csproj", "{74E8A342-FD2B-46B2-8AC5-8BE4CAD5E0E9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{AB5F9BCE-5A72-4EE6-A973-0F1BBC7C730C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AB5F9BCE-5A72-4EE6-A973-0F1BBC7C730C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AB5F9BCE-5A72-4EE6-A973-0F1BBC7C730C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7BA7D920-A2BA-4909-AA44-63A4D3720A1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BA7D920-A2BA-4909-AA44-63A4D3720A1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BA7D920-A2BA-4909-AA44-63A4D3720A1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BA7D920-A2BA-4909-AA44-63A4D3720A1C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74E8A342-FD2B-46B2-8AC5-8BE4CAD5E0E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74E8A342-FD2B-46B2-8AC5-8BE4CAD5E0E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74E8A342-FD2B-46B2-8AC5-8BE4CAD5E0E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74E8A342-FD2B-46B2-8AC5-8BE4CAD5E0E9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
